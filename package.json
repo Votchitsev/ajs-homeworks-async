@@ -1,0 +1,33 @@
+{
+  "name": "ajs-homeworks-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Votchitsev/ajs-homeworks-async.git"
+  },
+  "author": "Votchitsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Votchitsev/ajs-homeworks-async/issues"
+  },
+  "homepage": "https://github.com/Votchitsev/ajs-homeworks-async#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "babel": "^6.23.0",
+    "babel-jest": "^28.1.2",
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^28.1.2",
+    "webpack": "^5.73.0"
+  },
+  "dependencies": {
+    "core-js": "^3.23.3"
+  },
+  "type": "module"
+}
